@@ -23,7 +23,7 @@ A powerful and intuitive web application for generating beautiful, interactive c
 
 ![Line Graph](https://github.com/user-attachments/assets/2f71d25d-24b5-4627-be3d-cf6536da9bb1)
 
-Instaly Switch between Different tpyes of Graphs 
+Instantly Switch between Different tpyes of Graphs 
 
 ## Installation & Setup
 
